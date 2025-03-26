@@ -1,2 +1,2 @@
 # Visa-and-Immigration-Services
-It is a Frontend Website in which i used html css javascript and Bootstrap.
+•	Developed a clone of a visa and immigration services website using HTML, CSS, JavaScript, and Bootstrap. The project replicates the design and functionality of an official immigration portal, allowing users to explore visa options.
